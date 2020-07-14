@@ -1,4 +1,5 @@
 import json
+import time
 import requests
 
 from datetime import datetime
@@ -28,11 +29,19 @@ def main():
 
 def get_insta(username):
     #username = 'jaidaehall'
-    r = requests.get('https://www.picuki.com/profile/%s' % username)
-    chop = r.text.split('<span data-followers="')[1]
-
-    with open('jaida', 'w') as ofil:
-        ofil.write(r.text)
+    try:
+        r = requests.get('https://www.picuki.com/profile/%s' % username)
+    except:
+        err_log('request fail, https://www.picuki.com/profile/%s' % username)
+        return 0, 0
+    try:
+        chop = r.text.split('<span data-followers="')[1]
+    except:
+        filen = str(int(time.time())) + '.err'
+        err_log('chop fail: %s;  %s' % (username, filen))
+        with open(filen, 'w') as errr:
+            errr.write(r.text)
+        return 0, 0
 
     dump = ''
 
@@ -74,6 +83,12 @@ def get_facebook(username):
 
 def get_twitter(username):
     return 0
+
+
+def err_log(str):
+    with open('err.log', 'a') as log:
+        log.write('%s\tERR: %s' % (time.time(), str))
+        log.write('\n')
 
 
 if __name__ == '__main__':

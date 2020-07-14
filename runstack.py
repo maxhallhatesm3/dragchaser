@@ -29,8 +29,9 @@ class DragRace:
             szn = 'DR%d' % number
 
         self.dat[szn] = {}
+        self.save()
 
-    def add_queen(self, name, szn, dob, eth, state, finish):
+    def add_queen(self, name, szn, dob, eth, born, state, finish):
         if dob < 1900:
             dob = datetime.datetime.now().year - dob
 
@@ -39,6 +40,7 @@ class DragRace:
             'dob': dob,
             'eth': eth,
             'state': state,
+            'state_fmr': born,
             'finish': finish,
             'sm1': '',
             'sm2': '',
@@ -48,10 +50,22 @@ class DragRace:
             'sm6': '',
         }
         self.dat[szn][name.lower().replace(' ', '')] = newdat
+        self.save()
 
     def add_sm(self, name, sm, payload):
-        dat[szn][name][self.smkeys.get(sm)] = payload
+        for each in self.dat:
+            if name in self.dat[each]:
+                self.dat[each][name][self.smkeys.get(sm)] = payload
+                self.save()
 
     def update_sm(self, old, new):
         self.smkeys[new] = self.smkeys[old]
         del self.smkeys[old]
+
+    def update_place(self, name, season, finish):
+        self.dat[season][name]['finish'] = finish
+        self.save()
+
+
+if __name__ == '__main__':
+    dr = DragRace()
