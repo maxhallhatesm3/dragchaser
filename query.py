@@ -1,3 +1,4 @@
+import sys
 import json
 import time
 import requests
@@ -25,7 +26,10 @@ def main():
             with open('queries.json', 'a') as wfil:
                 json.dump(ddump, wfil, sort_keys=True)
                 wfil.write('\n')
-            print('∙', end='')
+            sys.stdout.write('∙')
+            sys.stdout.flush()
+    sys.stdout.write('\n')
+    sys.stdout.flush()
 
 
 def get_insta(username):
@@ -90,7 +94,8 @@ def err_log(str):
     with open('err.log', 'a') as log:
         log.write('%s\tERR: %s' % (time.time(), str))
         log.write('\n')
-    print('E', end='')
+    sys.stdout.write('E')
+    sys.stdout.flush()
 
 
 if __name__ == '__main__':
