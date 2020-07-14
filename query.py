@@ -15,7 +15,7 @@ def main():
             instagram_fol, instagram_lik = get_insta(dat[season][queen]['sm1'])
             ddump = {
                 'name': queen,
-                'ts': datetime.today().strftime('%Y-%m-%d'),
+                '_ts': datetime.now().strftime('%Y-%m-%dT%H:%M:%S'),
                 'sm1': instagram_fol,
                 'sm2': get_twitter(dat[season][queen]['sm2']),
                 'sm3': get_facebook(dat[season][queen]['sm3']),
