@@ -23,8 +23,9 @@ def main():
                 'sm6': instagram_lik
             }
             with open('queries.json', 'a') as wfil:
-                json.dump(ddump, wfil)
+                json.dump(ddump, wfil, sort_keys=True)
                 wfil.write('\n')
+            print('∙')
 
 
 def get_insta(username):
@@ -89,6 +90,7 @@ def err_log(str):
     with open('err.log', 'a') as log:
         log.write('%s\tERR: %s' % (time.time(), str))
         log.write('\n')
+    print('E')
 
 
 if __name__ == '__main__':
