@@ -1,3 +1,4 @@
+import os
 import sys
 import json
 import time
@@ -11,7 +12,8 @@ def main():
         dat = json.load(fil)
 
     for queen in dat:
-        instagram_fol, instagram_lik = get_insta(dat[queen]['sm1'])
+        #instagram_fol, instagram_lik = get_insta(dat[queen]['sm1'])
+        instagram_fol, instagram_lik = 1234, 2567
 
         extract = dat[queen]
 
@@ -37,7 +39,14 @@ def main():
 
 
 def get_insta(username):
-    #username = 'jaidaehall'
+
+    if not username:
+        err_log('username null')
+        return 0, 0
+    if len(username) < 2:
+        err_log('username len fail: %s' % username)
+        return 0, 0
+
     try:
         r = requests.get('https://www.picuki.com/profile/%s' % username)
     except:
@@ -46,7 +55,7 @@ def get_insta(username):
     try:
         chop = r.text.split('<span data-followers="')[1]
     except:
-        filen = str(int(time.time())) + '.err'
+        filen = os.path.join('logs', str(int(time.time())) + '.err')
         err_log('chop fail: %s;  %s' % (username, filen))
         with open(filen, 'w') as errr:
             errr.write(r.text)
@@ -59,7 +68,6 @@ def get_insta(username):
             break
         else:
             dump += each
-
 
     count = int(dump)
 
@@ -80,14 +88,49 @@ def get_insta(username):
         if isinstance(ct, int):
             likes.append(ct)
         ct = ''
-
-    lavg = sum(likes) / len(likes)
+    if len(likes) > 0:
+        lavg = sum(likes) / len(likes)
+    else:
+        err_log('zero div fail, ig likes, https://www.picuki.com/profile/%s' % username)
+        return 0, 0
 
     return count, lavg
 
 
 def get_facebook(username):
-    return 0
+    if not username:
+        err_log('username null: %s' % username)
+        return 0
+    if len(username) < 2:
+        err_log('username len fail: %s' % username)
+        return 0
+    try:
+        r = requests.get('https://www.facebook.com/%s' % username)
+    except:
+        err_log('request fail, https://www.facebook.com/%s' % username)
+        return 0
+
+    try:
+        rough = r.text.split('people like this')[0].split('<div>')[-1]
+        likes = int(rough.strip().replace(',', ''))
+    except:
+        filen = os.path.join('logs', str(int(time.time())) + '.err')
+        err_log('chop fail: %s;  %s' % (username, filen))
+        with open(filen, 'w') as errr:
+            errr.write(r.text)
+        return 0
+
+    try:
+        rough = r.text.split('people follow this')[0].split('<div>')[-1]
+        follows = int(rough.strip().replace(',', ''))
+    except:
+        filen = os.path.join('logs', str(int(time.time())) + '.err')
+        err_log('chop fail: %s;  %s' % (username, filen))
+        with open(filen, 'w') as errr:
+            errr.write(r.text)
+        return 0
+
+    return likes + follows
 
 
 def get_twitter(username):
@@ -96,7 +139,7 @@ def get_twitter(username):
 
 def err_log(str):
     with open('err.log', 'a') as log:
-        log.write('%s\tERR: %s' % (time.time(), str))
+        log.write('%s\tERR: %s' % (datetime.now().strftime('%Y-%m-%dT%H:%M:%S'), str))
         log.write('\n')
     sys.stdout.write('E')
     sys.stdout.flush()
