@@ -39,7 +39,7 @@ def main():
             }
         )
         filnm = '%s.json' % datetime.now().strftime('%Y-%m-%d-%H')
-        filout = os.path.join('home', 'ubuntu', 'datadump', filnm)
+        filout = os.path.join(os.path.sep, 'home', 'ubuntu', 'datadump', filnm)
         with open(filout, 'a') as wfil:
             json.dump(extract, wfil, sort_keys=True)
             wfil.write('\n')
