@@ -1,496 +1,1679 @@
 {
-  "alexismateo": {
-    "dob": 1979,
-    "eth": "latinx",
-    "finish": 4,
-    "name": "Alexis Mateo",
-    "seasons": ["AS5"],
-    "sm1": "miss_alexis_mateo",
-    "sm2": "AlexisMateo79",
-    "sm3": "alexis.mateo.37",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NV",
-    "state_fmr": "FL"
-  },
-  "blairstclair": {
-    "dob": 1995,
-    "eth": "white",
-    "finish": 0,
-    "name": "Blair St Clair",
-    "seasons": ["AS5", "DR10"],
-    "sm1": "blairst.clair",
-    "sm2": "BlairStClair",
-    "sm3": "theblairstclair",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "DC",
-    "state_fmr": "IN"
-  },
-  "derrickbarry": {
-    "dob": 1983,
-    "eth": "white",
-    "finish": 9,
-    "name": "Derrick Barry",
-    "seasons": ["AS5"],
-    "sm1": "derrickbarry",
-    "sm2": "DerrickBarry",
-    "sm3": "Derrick-Barry-145689685453473",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NV",
-    "state_fmr": "CA"
-  },
-  "indiaferrah": {
-    "dob": 1986,
-    "eth": "white",
-    "finish": 5,
-    "name": "India Ferrah",
-    "seasons": ["AS5"],
-    "sm1": "indiaferrah",
-    "sm2": "Indiaferrah",
-    "sm3": "OfficialIndiaFerrah",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NV",
-    "state_fmr": "OH"
-  },
-  "jujubee": {
-    "dob": 1984,
-    "eth": "laotian",
-    "finish": 0,
-    "name": "Jujubee",
-    "seasons": ["AS5"],
-    "sm1": "jujubeeonline",
-    "sm2": "jujuboston",
-    "sm3": "jujubeefans",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "MA"
-  },
-  "mariahparisbalenciaga": {
-    "dob": 1982,
-    "eth": "latinx",
-    "finish": 7,
-    "name": "Mariah Paris Balenciaga",
-    "seasons": ["AS5"],
-    "sm1": "mug4dayz",
-    "sm2": "MUG4DAYZ",
-    "sm3": "mariahbalenciaga",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "GA"
-  },
-  "mayhemmiller": {
-    "dob": 1982,
-    "eth": "black",
-    "finish": 6,
-    "name": "Mayhem Miller",
-    "seasons": ["AS5", "DR10"],
-    "sm1": "theonlymayhem",
-    "sm2": "TheOnlyMayhem",
-    "sm3": "theonlymayhem",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "CA"
-  },
-  "mizcracker": {
-    "dob": 1984,
-    "eth": "white",
-    "finish": 0,
-    "name": "Miz Cracker",
-    "seasons": ["AS5", "DR10"],
-    "sm1": "miz_cracker",
-    "sm2": "miz_cracker",
-    "sm3": "MizCrackerOfficial",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "WA"
-  },
-  "ongina": {
-    "dob": 1982,
-    "eth": "filipino",
-    "finish": 8,
-    "name": "Ongina",
-    "seasons": ["AS5"],
-    "sm1": "ongina",
-    "sm2": "ongina",
-    "sm3": "onginaofficial",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "PHL"
-  },
-  "sheacoulee": {
-    "dob": 1989,
-    "eth": "black",
-    "finish": 0,
-    "name": "Shea Coulee",
-    "seasons": ["AS5"],
-    "sm1": "sheacoulee",
-    "sm2": "SheaCoulee",
-    "sm3": "misscouleeifunasty",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "IL",
-    "state_fmr": "WA"
-  },
-  "aquaria": {
-    "dob": 1996,
-    "eth": "white",
-    "finish": 1,
-    "name": "Aquaria",
-    "seasons": ["DR10"],
-    "sm1": "ageofaquaria",
-    "sm2": "aquariaofficial",
-    "sm3": "AgeOfAquaria",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "PA"
-  },
-  "asiaohara": {
-    "dob": 1982,
-    "eth": "black",
-    "finish": 3,
-    "name": "Asia OHara",
-    "seasons": ["DR10"],
-    "sm1": "asiaoharaland",
-    "sm2": "AsiaOharaLand",
-    "sm3": "AsiaOharaLand",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "TX",
-    "state_fmr": "TX"
-  },
-  "dustyraybottoms": {
-    "dob": 1987,
-    "eth": "white",
-    "finish": 10,
-    "name": "Dusty Ray Bottoms",
-    "seasons": ["DR10"],
-    "sm1": "dustyray",
-    "sm2": "DustyRayBottoms",
-    "sm3": "dustyray.bottoms",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "KY"
-  },
-  "eurekaohara": {
-    "dob": 1990,
-    "eth": "white",
-    "finish": 2,
-    "name": "Eureka OHara",
-    "seasons": ["DR10"],
-    "sm1": "eurekaohara",
-    "sm2": "eurekaohara",
-    "sm3": "eureka.ohara2",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "TN"
-  },
-  "kaloriekarbdashianwilliams": {
-    "dob": 1990,
-    "eth": "latinx",
-    "finish": 12,
-    "name": "Kalorie Karbdashian Williams",
-    "seasons": ["DR10"],
-    "sm1": "kalkarbdashianw",
-    "sm2": "kalKARBdashianw",
-    "sm3": "KalKarbdashianw",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NM",
-    "state_fmr": "NM"
-  },
-  "kameronmichaels": {
-    "dob": 1986,
-    "eth": "white",
-    "finish": 2,
-    "name": "Kameron Michaels",
-    "seasons": ["DR10"],
-    "sm1": "kameronmichaels",
-    "sm2": "KameronMichaels",
-    "sm3": "KameronMichaels",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "TN",
-    "state_fmr": "TN"
-  },
-  "monetxchange": {
-    "dob": 1990,
-    "eth": "black",
-    "finish": 5,
-    "name": "Monet X Change",
-    "seasons": ["DR10"],
-    "sm1": "monetxchange",
-    "sm2": "monetxchange",
-    "sm3": "monet.xchange",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "NY"
-  },
-  "moniqueheart": {
-    "dob": 1986,
-    "eth": "black",
-    "finish": 7,
-    "name": "Monique Heart",
-    "seasons": ["DR10"],
-    "sm1": "iammoniqueheart",
-    "sm2": "IAmMoniqueHeart",
-    "sm3": "theonlymoniqueheart",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "MO",
-    "state_fmr": "NY"
-  },
-  "thevixen": {
-    "dob": 1990,
-    "eth": "black",
-    "finish": 6,
-    "name": "The Vixen",
-    "seasons": ["DR10"],
-    "sm1": "thevixensworld",
-    "sm2": "TheVixensworld",
-    "sm3": "TheVxnsWorld",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "IL",
-    "state_fmr": "IL"
-  },
-  "vanessavanjiemateo": {
-    "dob": 1991,
-    "eth": "latinx",
-    "finish": 13,
-    "name": "Vanessa Vanjie Mateo",
-    "seasons": ["DR10"],
-    "sm1": "vanessavanjie",
-    "sm2": "VanessaVanjie",
-    "sm3": "Vanessa-Vanjie-Mateo-439488576394225",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "FL"
-  },
-  "yuhuahamasaki": {
-    "dob": 1990,
-    "eth": "chinese",
-    "finish": 11,
-    "name": "Yuhua Hamasaki",
-    "seasons": ["DR10"],
-    "sm1": "yuhuahamasaki",
-    "sm2": "YuhuaHamasaki",
-    "sm3": "yuhuahamasaki",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "CHN"
-  },
-  "aidenzhane": {
-    "dob": "29",
-    "eth": "white",
-    "finish": 9,
-    "name": "Aiden Zhane",
-    "seasons": ["DR12"],
-    "sm1": "aiden_zhane",
-    "sm2": "Aiden_Zhane",
-    "sm3": "aiden.zhane",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "GA",
-    "state_fmr": "MI"
-  },
-  "britafilter": {
-    "dob": "34",
-    "eth": "polynesian",
-    "finish": 8,
-    "name": "Brita Filter",
-    "seasons": ["DR12"],
-    "sm1": "thebritafilter",
-    "sm2": "thebritafilter",
-    "sm3": "TheBritaFilter",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "AZ"
-  },
-  "crystalmethyd": {
-    "dob": 1992,
-    "eth": "latinx",
-    "finish": 2,
-    "name": "Crystal Methyd",
-    "seasons": ["DR12"],
-    "sm1": "crystalmethyd",
-    "sm2": "CrystalMethyd",
-    "sm3": "crystalmethyd",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "MO",
-    "state_fmr": "CA"
-  },
-  "dahliasin": {
-    "dob": "28",
-    "eth": "latinx",
-    "finish": 11,
-    "name": "Dahlia Sin",
-    "seasons": ["DR12"],
-    "sm1": "dahlia_sin",
-    "sm2": "Dahlia_Sin",
-    "sm3": "erick.anthony.73594",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "NY"
-  },
-  "gigigoode": {
-    "dob": 1999,
-    "eth": "white",
-    "finish": 2,
-    "name": "Gigi Goode",
-    "seasons": ["DR12"],
-    "sm1": "thegigigoode",
-    "sm2": "thegigigoode",
-    "sm3": "thegigigoode ",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "IL"
-  },
-  "heidincloset": {
-    "dob": 1996,
-    "eth": "black",
-    "finish": 5,
-    "name": "Heidi N Closet",
-    "seasons": ["DR12"],
-    "sm1": "heidincloset",
-    "sm2": "HeidiNCloset",
-    "sm3": "HeidiNCloset",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NC",
-    "state_fmr": "NC"
-  },
-  "jackiecox": {
-    "dob": 1986,
-    "eth": "persian",
-    "finish": 4,
-    "name": "Jackie Cox",
-    "seasons": ["DR12"],
-    "sm1": "jackiecoxnyc",
-    "sm2": "JackieCoxNYC",
-    "sm3": "JackieCoxNYC",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "CAN"
-  },
-  "jaidaessencehall": {
-    "dob": 1989,
-    "eth": "black",
-    "finish": 1,
-    "name": "Jaida Essence Hall",
-    "seasons": ["DR12"],
-    "sm1": "jaidaehall",
-    "sm2": "jaidaehall",
-    "sm3": "Jaida-Essence-Hall-342132062949403",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "WI",
-    "state_fmr": "WI"
-  },
-  "jansport": {
-    "dob": "26",
-    "eth": "white",
-    "finish": 7,
-    "name": "JanSport",
-    "seasons": ["DR12"],
-    "sm1": "janjanjan",
-    "sm2": "jansportnyc",
-    "sm3": "",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "NJ"
-  },
-  "nickydoll": {
-    "dob": "28",
-    "eth": "white",
-    "finish": 10,
-    "name": "Nicky Doll",
-    "seasons": ["DR12"],
-    "sm1": "thenickydoll",
-    "sm2": "thenickydoll",
-    "sm3": "nickydolls",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "NY",
-    "state_fmr": "FRA"
-  },
-  "rockmsakura": {
-    "dob": "28",
-    "eth": "filipino",
-    "finish": 11,
-    "name": "Rock M Sakura",
-    "seasons": ["DR12"],
-    "sm1": "rockmsakura",
-    "sm2": "RockMSakura",
-    "sm3": "RockMSakura",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "CA",
-    "state_fmr": "CA"
-  },
-  "widowvondu": {
-    "dob": 1990,
-    "eth": "black",
-    "finish": 6,
-    "name": "Widow VonDu",
-    "seasons": ["DR12"],
-    "sm1": "thewidowvondu",
-    "sm2": "TheWidowVonDu",
-    "sm3": "",
-    "sm4": "",
-    "sm5": "",
-    "sm6": "",
-    "state": "MO",
-    "state_fmr": "MO"
-  }
+      "adoredelano": {
+            "dob": 1989,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Adore Delano",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "adoredelano",
+            "sm2": "AdoreDelano",
+            "sm3": "AdoreDelanoOfficial",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
+      },
+      "aidenzhane": {
+            "dob": "29",
+            "eth": "white",
+            "finish": [
+                  9
+            ],
+            "name": "Aiden Zhane",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "aiden_zhane",
+            "sm2": "Aiden_Zhane",
+            "sm3": "aiden.zhane",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "GA",
+            "state_fmr": "MI"
+      },
+      "akeriachaneldavenport": {
+            "dob": 1988,
+            "eth": "black",
+            "finish": [
+                  3
+            ],
+            "name": "Akeria Chanel Davenport",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "mizakeriachanel",
+            "sm2": "A_doubleC_D",
+            "sm3": "akeriachanel.davenport",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TX",
+            "state_fmr": "TX"
+      },
+      "alaskathunderfuck": {
+            "dob": 1985,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Alaska Thunderfuck",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "theonlyalaska5000",
+            "sm2": "Alaska5000",
+            "sm3": "AlaskaThunder",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "PA"
+      },
+      "alexismateo": {
+            "dob": 1979,
+            "eth": "latinx",
+            "finish": [
+                  4
+            ],
+            "name": "Alexis Mateo",
+            "seasons": [
+                  "AS5"
+            ],
+            "sm1": "miss_alexis_mateo",
+            "sm2": "AlexisMateo79",
+            "sm3": "alexis.mateo.37",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NV",
+            "state_fmr": "FL"
+      },
+      "alisasummers": {
+            "dob": 1988,
+            "eth": "latinx",
+            "finish": [
+                  12
+            ],
+            "name": "Alisa Summers",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "alisa_summers",
+            "sm2": "OfficialAlisaS",
+            "sm3": "alisa.summers",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "FL",
+            "state_fmr": "FL"
+      },
+      "alyssaedwards": {
+            "dob": 1980,
+            "eth": "white",
+            "finish": [
+                  5
+            ],
+            "name": "Alyssa Edwards",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "alyssaedwards_1",
+            "sm2": "AlyssaEdwards_1",
+            "sm3": "QueenAlyssaEdwards",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TX",
+            "state_fmr": "TX"
+      },
+      "aprilcarrion": {
+            "dob": 1989,
+            "eth": "latinx",
+            "finish": [
+                  10
+            ],
+            "name": "April Carrion",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "aprilcarrion",
+            "sm2": "89CARRYON",
+            "sm3": "APRILcarrion",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "PR",
+            "state_fmr": "PR"
+      },
+      "aquaria": {
+            "dob": 1996,
+            "eth": "white",
+            "finish": [
+                  1
+            ],
+            "name": "Aquaria",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "ageofaquaria",
+            "sm2": "aquariaofficial",
+            "sm3": "AgeOfAquaria",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "PA"
+      },
+      "arielversace": {
+            "dob": 1992,
+            "eth": "white",
+            "finish": [
+                  9
+            ],
+            "name": "Ariel Versace",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "arielversace",
+            "sm2": "arielversace",
+            "sm3": "ariel.versace.10",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "NJ"
+      },
+      "asiaohara": {
+            "dob": 1982,
+            "eth": "black",
+            "finish": [
+                  3
+            ],
+            "name": "Asia OHara",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "asiaoharaland",
+            "sm2": "AsiaOharaLand",
+            "sm3": "AsiaOharaLand",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TX",
+            "state_fmr": "TX"
+      },
+      "bendelacreme": {
+            "dob": 1982,
+            "eth": "white",
+            "finish": [
+                  4
+            ],
+            "name": "BenDeLaCreme",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "bendelacreme",
+            "sm2": "bendelacreme",
+            "sm3": "bendelacreme",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "WA",
+            "state_fmr": "CT"
+      },
+      "biancadelrio": {
+            "dob": 1975,
+            "eth": "white",
+            "finish": [
+                  1
+            ],
+            "name": "Bianca Del Rio",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "thebiancadelrio",
+            "sm2": "TheBiancaDelRio",
+            "sm3": "TheBiancaDelRIo",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "LA"
+      },
+      "blairstclair": {
+            "dob": 1995,
+            "eth": "white",
+            "finish": [
+                  3,
+                  8
+            ],
+            "name": "Blair St Clair",
+            "seasons": [
+                  "AS5",
+                  "DR10"
+            ],
+            "sm1": "blairst.clair",
+            "sm2": "BlairStClair",
+            "sm3": "theblairstclair",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "DC",
+            "state_fmr": "IN"
+      },
+      "britafilter": {
+            "dob": "34",
+            "eth": "polynesian",
+            "finish": [
+                  8
+            ],
+            "name": "Brita Filter",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "thebritafilter",
+            "sm2": "thebritafilter",
+            "sm3": "TheBritaFilter",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "AZ"
+      },
+      "brookelynnhytes": {
+            "dob": 1986,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Brooke Lynn Hytes",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "bhytes",
+            "sm2": "Bhytes1",
+            "sm3": "brookelynnhytesofficial",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CAN"
+      },
+      "chadmichaels": {
+            "dob": 1971,
+            "eth": "white",
+            "finish": [
+                  1
+            ],
+            "name": "Chad Michaels",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "chadmichaelsallstar",
+            "sm2": "ChadMichaels1",
+            "sm3": "chadmichaelsallstar",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
+      },
+      "cocomontrese": {
+            "dob": 1974,
+            "eth": "black",
+            "finish": [
+                  4
+            ],
+            "name": "Coco Montrese",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "theonlycocomontrese",
+            "sm2": "cocomontrese",
+            "sm3": "cocomontreseFAN",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NV",
+            "state_fmr": "NV"
+      },
+      "courtneyact": {
+            "dob": 1982,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Courtney Act",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "courtneyact",
+            "sm2": "courtneyact",
+            "sm3": "CourtneyAct",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "AUS"
+      },
+      "crystalmethyd": {
+            "dob": 1992,
+            "eth": "latinx",
+            "finish": [
+                  2
+            ],
+            "name": "Crystal Methyd",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "crystalmethyd",
+            "sm2": "CrystalMethyd",
+            "sm3": "crystalmethyd",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "MO",
+            "state_fmr": "CA"
+      },
+      "dahliasin": {
+            "dob": "28",
+            "eth": "latinx",
+            "finish": [
+                  11
+            ],
+            "name": "Dahlia Sin",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "dahlia_sin",
+            "sm2": "Dahlia_Sin",
+            "sm3": "erick.anthony.73594",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "NY"
+      },
+      "dariennelake": {
+            "dob": 1971,
+            "eth": "white",
+            "finish": [
+                  3
+            ],
+            "name": "Darienne Lake",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "dariennelake",
+            "sm2": "dariennelake",
+            "sm3": "StuntQueen",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "NY"
+      },
+      "derrickbarry": {
+            "dob": 1983,
+            "eth": "white",
+            "finish": [
+                  9
+            ],
+            "name": "Derrick Barry",
+            "seasons": [
+                  "AS5"
+            ],
+            "sm1": "derrickbarry",
+            "sm2": "DerrickBarry",
+            "sm3": "Derrick-Barry-145689685453473",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NV",
+            "state_fmr": "CA"
+      },
+      "detoxicunt": {
+            "dob": 1985,
+            "eth": "white",
+            "finish": [
+                  4
+            ],
+            "name": "Detox Icunt",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "theonlydetox",
+            "sm2": "TheOnlyDetox",
+            "sm3": "TheOnlyDetox",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
+      },
+      "didaritz": {
+            "dob": 1986,
+            "eth": "black",
+            "finish": [
+                  5
+            ],
+            "name": "Dida Ritz",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "didaswag",
+            "sm2": "TheRealDiDaSwag",
+            "sm3": "IAmDiDaRitz",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "IL",
+            "state_fmr": "IL"
+      },
+      "dustyraybottoms": {
+            "dob": 1987,
+            "eth": "white",
+            "finish": [
+                  10
+            ],
+            "name": "Dusty Ray Bottoms",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "dustyray",
+            "sm2": "DustyRayBottoms",
+            "sm3": "dustyray.bottoms",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "KY"
+      },
+      "eurekaohara": {
+            "dob": 1990,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Eureka OHara",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "eurekaohara",
+            "sm2": "eurekaohara",
+            "sm3": "eureka.ohara2",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "TN"
+      },
+      "giagunn": {
+            "dob": 1990,
+            "eth": "japanese",
+            "finish": [
+                  9
+            ],
+            "name": "Gia Gunn",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "gia_gunn",
+            "sm2": "GiaGunn",
+            "sm3": "gia.gunn",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "IL"
+      },
+      "gigigoode": {
+            "dob": 1999,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Gigi Goode",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "thegigigoode",
+            "sm2": "thegigigoode",
+            "sm3": "thegigigoode ",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "IL"
+      },
+      "heidincloset": {
+            "dob": 1996,
+            "eth": "black",
+            "finish": [
+                  5
+            ],
+            "name": "Heidi N Closet",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "heidincloset",
+            "sm2": "HeidiNCloset",
+            "sm3": "HeidiNCloset",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NC",
+            "state_fmr": "NC"
+      },
+      "honeydavenport": {
+            "dob": 1986,
+            "eth": "black",
+            "finish": [
+                  11
+            ],
+            "name": "Honey Davenport",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "honeydavenportofficial",
+            "sm2": "Honey_Davenport",
+            "sm3": "honeydavenportofficial",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "NY"
+      },
+      "honeymahogany": {
+            "dob": 1983,
+            "eth": "ethiopian",
+            "finish": [
+                  9
+            ],
+            "name": "Honey Mahogany",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "honeymahogany",
+            "sm2": "honeymahogany",
+            "sm3": "honeymahogany",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
+      },
+      "indiaferrah": {
+            "dob": 1986,
+            "eth": "white",
+            "finish": [
+                  5
+            ],
+            "name": "India Ferrah",
+            "seasons": [
+                  "AS5"
+            ],
+            "sm1": "indiaferrah",
+            "sm2": "Indiaferrah",
+            "sm3": "OfficialIndiaFerrah",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NV",
+            "state_fmr": "OH"
+      },
+      "ivywinters": {
+            "dob": 1986,
+            "eth": "white",
+            "finish": [
+                  6
+            ],
+            "name": "Ivy Winters",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "ivy_winters",
+            "sm2": "Ivy_Winters",
+            "sm3": "Wintersivy",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "MI"
+      },
+      "jackiecox": {
+            "dob": 1986,
+            "eth": "persian",
+            "finish": [
+                  4
+            ],
+            "name": "Jackie Cox",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "jackiecoxnyc",
+            "sm2": "JackieCoxNYC",
+            "sm3": "JackieCoxNYC",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "CAN"
+      },
+      "jadejolie": {
+            "dob": 1986,
+            "eth": "white",
+            "finish": [
+                  7
+            ],
+            "name": "Jade Jolie",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "missjadejolie",
+            "sm2": "QueenJadeJolie",
+            "sm3": "QueenJadeJolie",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "KY",
+            "state_fmr": "FL"
+      },
+      "jaidaessencehall": {
+            "dob": 1989,
+            "eth": "black",
+            "finish": [
+                  1
+            ],
+            "name": "Jaida Essence Hall",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "jaidaehall",
+            "sm2": "jaidaehall",
+            "sm3": "Jaida-Essence-Hall-342132062949403",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "WI",
+            "state_fmr": "WI"
+      },
+      "jansport": {
+            "dob": "26",
+            "eth": "white",
+            "finish": [
+                  7
+            ],
+            "name": "JanSport",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "janjanjan",
+            "sm2": "jansportnyc",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "NJ"
+      },
+      "jigglycaliente": {
+            "dob": 1981,
+            "eth": "filipino",
+            "finish": [
+                  7
+            ],
+            "name": "Jiggly Caliente",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "jigglycalienteofficial",
+            "sm2": "jiggly_official",
+            "sm3": "JigglyCaliente",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "NY"
+      },
+      "jinkxmonsoon": {
+            "dob": 1987,
+            "eth": "white",
+            "finish": [
+                  12
+            ],
+            "name": "Jinkx Monsoon",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "thejinkx",
+            "sm2": "JinkxMonsoon",
+            "sm3": "jinkx.monsoon",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "WA",
+            "state_fmr": "OR"
+      },
+      "joslynfox": {
+            "dob": 1986,
+            "eth": "white",
+            "finish": [
+                  5
+            ],
+            "name": "Joslyn Fox",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "joslynfox",
+            "sm2": "Joslyn_Fox",
+            "sm3": "JoslynFox",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "MA",
+            "state_fmr": "MA"
+      },
+      "jujubee": {
+            "dob": 1984,
+            "eth": "laotian",
+            "finish": [
+                  0
+            ],
+            "name": "Jujubee",
+            "seasons": [
+                  "AS5"
+            ],
+            "sm1": "jujubeeonline",
+            "sm2": "jujuboston",
+            "sm3": "jujubeefans",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "MA"
+      },
+      "kahannamontrese": {
+            "dob": 1993,
+            "eth": "black",
+            "finish": [
+                  12
+            ],
+            "name": "Kahanna Montrese",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "kahannamontrese",
+            "sm2": "Kahannamontrese",
+            "sm3": "kahanna.rachels",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NV",
+            "state_fmr": "CO"
+      },
+      "kaloriekarbdashianwilliams": {
+            "dob": 1990,
+            "eth": "latinx",
+            "finish": [
+                  12
+            ],
+            "name": "Kalorie Karbdashian Williams",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "kalkarbdashianw",
+            "sm2": "kalKARBdashianw",
+            "sm3": "KalKarbdashianw",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NM",
+            "state_fmr": "NM"
+      },
+      "kameronmichaels": {
+            "dob": 1986,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Kameron Michaels",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "kameronmichaels",
+            "sm2": "KameronMichaels",
+            "sm3": "KameronMichaels",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TN",
+            "state_fmr": "TN"
+      },
+      "kellymantle": {
+            "dob": 1976,
+            "eth": "white",
+            "finish": [
+                  12
+            ],
+            "name": "Kelly Mantle",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "kellymantle",
+            "sm2": "thekellymantle",
+            "sm3": "kellymantlefanpage",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "OK"
+      },
+      "kenyamichaels": {
+            "dob": 1990,
+            "eth": "latinx",
+            "finish": [
+                  4
+            ],
+            "name": "Kenya Michaels",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "kenyamichaels",
+            "sm2": "Kenya_Olivera",
+            "sm3": "kenya.michaels.3",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "PR",
+            "state_fmr": "PR"
+      },
+      "laganjaestranja": {
+            "dob": 1988,
+            "eth": "white",
+            "finish": [
+                  7
+            ],
+            "name": "Laganja Estranja",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "laganjaestranja",
+            "sm2": "LaganjaEstranja",
+            "sm3": "LaganjaEstranja",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "TX"
+      },
+      "lashauwnbeyond": {
+            "dob": 1989,
+            "eth": "black",
+            "finish": [
+                  11
+            ],
+            "name": "Lashauwn Beyond",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "lashauwnbeyond",
+            "sm2": "",
+            "sm3": "JMJBEYOND",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "FL",
+            "state_fmr": "FL"
+      },
+      "latriceroyale": {
+            "dob": 1972,
+            "eth": "black",
+            "finish": [
+                  3
+            ],
+            "name": "Latrice Royale",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "latriceroyale",
+            "sm2": "LatriceRoyale",
+            "sm3": "LatriceRoyaleInc",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "FL",
+            "state_fmr": "FL"
+      },
+      "lineyshasparx": {
+            "dob": 1988,
+            "eth": "latinx",
+            "finish": [
+                  8
+            ],
+            "name": "Lineysha Sparx",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "lineyshasparx",
+            "sm2": "LineyshaSparx",
+            "sm3": "LineyshaSparx",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "FL",
+            "state_fmr": "PR"
+      },
+      "madamelaqueer": {
+            "dob": 1982,
+            "eth": "latinx",
+            "finish": [
+                  9
+            ],
+            "name": "Madame LaQueer",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "madamelaqueer",
+            "sm2": "MadameLaQueer",
+            "sm3": "Madame-La-Queer-77786150813",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "PR",
+            "state_fmr": "PR"
+      },
+      "magnoliacrawford": {
+            "dob": 1985,
+            "eth": "white",
+            "finish": [
+                  12
+            ],
+            "name": "Magnolia Crawford",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "magnoliacrawford",
+            "sm2": "magnoliaisme",
+            "sm3": "magnoliaisme",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "WA",
+            "state_fmr": "WA"
+      },
+      "mariahparisbalenciaga": {
+            "dob": 1982,
+            "eth": "latinx",
+            "finish": [
+                  7
+            ],
+            "name": "Mariah Paris Balenciaga",
+            "seasons": [
+                  "AS5"
+            ],
+            "sm1": "mug4dayz",
+            "sm2": "MUG4DAYZ",
+            "sm3": "mariahbalenciaga",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "GA"
+      },
+      "mayhemmiller": {
+            "dob": 1982,
+            "eth": "black",
+            "finish": [
+                  6,
+                  9
+            ],
+            "name": "Mayhem Miller",
+            "seasons": [
+                  "AS5",
+                  "DR10"
+            ],
+            "sm1": "theonlymayhem",
+            "sm2": "TheOnlyMayhem",
+            "sm3": "theonlymayhem",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
+      },
+      "mercedesimandiamond": {
+            "dob": 1986,
+            "eth": "black",
+            "finish": [
+                  10
+            ],
+            "name": "Mercedes Iman Diamond",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "mercedesimandiamond",
+            "sm2": "Mercedesiman",
+            "sm3": "mercedes.iman",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "MN",
+            "state_fmr": "KEN"
+      },
+      "milan": {
+            "dob": 1975,
+            "eth": "black",
+            "finish": [
+                  8
+            ],
+            "name": "Milan",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "itsdwaynecooper",
+            "sm2": "itsdwaynecooper",
+            "sm3": "itsdwaynecooper",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "SC"
+      },
+      "milk": {
+            "dob": 1987,
+            "eth": "white",
+            "finish": [
+                  8
+            ],
+            "name": "Milk",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "bigandmilky",
+            "sm2": "bigandmilky",
+            "sm3": "milkthequeen",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "NY"
+      },
+      "mizcracker": {
+            "dob": 1984,
+            "eth": "white",
+            "finish": [
+                  0,
+                  4
+            ],
+            "name": "Miz Cracker",
+            "seasons": [
+                  "AS5",
+                  "DR10"
+            ],
+            "sm1": "miz_cracker",
+            "sm2": "miz_cracker",
+            "sm3": "MizCrackerOfficial",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "WA"
+      },
+      "monetxchange": {
+            "dob": 1990,
+            "eth": "black",
+            "finish": [
+                  5
+            ],
+            "name": "Monet X Change",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "monetxchange",
+            "sm2": "monetxchange",
+            "sm3": "monet.xchange",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "NY"
+      },
+      "monicabeverlyhillz": {
+            "dob": 1985,
+            "eth": "latinx",
+            "finish": [
+                  11
+            ],
+            "name": "Monica Beverly Hillz",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "monicabhillz",
+            "sm2": "MonicaBHillz",
+            "sm3": "MonicaBeverlyHillz",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "IL",
+            "state_fmr": "KY"
+      },
+      "moniqueheart": {
+            "dob": 1986,
+            "eth": "black",
+            "finish": [
+                  7
+            ],
+            "name": "Monique Heart",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "iammoniqueheart",
+            "sm2": "IAmMoniqueHeart",
+            "sm3": "theonlymoniqueheart",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "MO",
+            "state_fmr": "NY"
+      },
+      "nickydoll": {
+            "dob": "28",
+            "eth": "white",
+            "finish": [
+                  10
+            ],
+            "name": "Nicky Doll",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "thenickydoll",
+            "sm2": "thenickydoll",
+            "sm3": "nickydolls",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "FRA"
+      },
+      "ninawest": {
+            "dob": 1970,
+            "eth": "white",
+            "finish": [
+                  4
+            ],
+            "name": "Nina West",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "ninawest",
+            "sm2": "NinaWest",
+            "sm3": "superdragqueen1",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "OH",
+            "state_fmr": "OH"
+      },
+      "ongina": {
+            "dob": 1982,
+            "eth": "filipino",
+            "finish": [
+                  8
+            ],
+            "name": "Ongina",
+            "seasons": [
+                  "AS5"
+            ],
+            "sm1": "ongina",
+            "sm2": "ongina",
+            "sm3": "onginaofficial",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "PHL"
+      },
+      "pennytration": {
+            "dob": 1972,
+            "eth": "white",
+            "finish": [
+                  13
+            ],
+            "name": "Penny Tration",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "misspennytration",
+            "sm2": "",
+            "sm3": "fan.pennytration",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "OH",
+            "state_fmr": "OH"
+      },
+      "phiphiohara": {
+            "dob": 1985,
+            "eth": "filipino",
+            "finish": [
+                  2
+            ],
+            "name": "Phi Phi OHara",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "phiphiohara",
+            "sm2": "PhiPhiOhara",
+            "sm3": "JustJaremi",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "IL"
+      },
+      "plastiquetiara": {
+            "dob": 1997,
+            "eth": "vietnamese",
+            "finish": [
+                  6
+            ],
+            "name": "Plastique Tiara",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "plastiquetiara",
+            "sm2": "plastiquetiara",
+            "sm3": "PlastiqueTiara",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TX",
+            "state_fmr": "VNM"
+      },
+      "rajahohara": {
+            "dob": 1986,
+            "eth": "black",
+            "finish": [
+                  7
+            ],
+            "name": "RaJah OHara",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "therajahoharashow",
+            "sm2": "RaJahOHara",
+            "sm3": "RaJah-OHara-397291650816167",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TX",
+            "state_fmr": "TX"
+      },
+      "rockmsakura": {
+            "dob": "28",
+            "eth": "filipino",
+            "finish": [
+                  11
+            ],
+            "name": "Rock M Sakura",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "rockmsakura",
+            "sm2": "RockMSakura",
+            "sm3": "RockMSakura",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
+      },
+      "roxxxyandrews": {
+            "dob": 1983,
+            "eth": "latinx",
+            "finish": [
+                  3
+            ],
+            "name": "Roxxxy Andrews",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "roxxxyandrews",
+            "sm2": "RoxxxyAndrews",
+            "sm3": "roxandrews",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "FL",
+            "state_fmr": "FL"
+      },
+      "scarletenvy": {
+            "dob": 1992,
+            "eth": "white",
+            "finish": [
+                  8
+            ],
+            "name": "Scarlet Envy",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "scarletenvy",
+            "sm2": "ScarletEnvyNYC",
+            "sm3": "scarletdrinkswhiskey",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "KY"
+      },
+      "serenachacha": {
+            "dob": 1990,
+            "eth": "latinx",
+            "finish": [
+                  12
+            ],
+            "name": "Serena ChaCha",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "myron.morgan",
+            "sm2": "SerenaChaCha",
+            "sm3": "serenachacha1",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "FL",
+            "state_fmr": "PAN"
+      },
+      "sharonneedles": {
+            "dob": 1981,
+            "eth": "white",
+            "finish": [
+                  1
+            ],
+            "name": "Sharon Needles",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "sharonneedlespgh",
+            "sm2": "SHARON_NEEDLES",
+            "sm3": "SHARONNEEDLESisDEAD",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "PA",
+            "state_fmr": "IA"
+      },
+      "sheacoulee": {
+            "dob": 1989,
+            "eth": "black",
+            "finish": [
+                  0
+            ],
+            "name": "Shea Coulee",
+            "seasons": [
+                  "AS5"
+            ],
+            "sm1": "sheacoulee",
+            "sm2": "SheaCoulee",
+            "sm3": "misscouleeifunasty",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "IL",
+            "state_fmr": "WA"
+      },
+      "shugacain": {
+            "dob": 1977,
+            "eth": "latinx",
+            "finish": [
+                  5
+            ],
+            "name": "Shuga Cain",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "missshugacain",
+            "sm2": "MissShugaCain",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "CA"
+      },
+      "silkynutmegganache": {
+            "dob": 1990,
+            "eth": "black",
+            "finish": [
+                  3
+            ],
+            "name": "Silky Nutmeg Ganache",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "silkyganache",
+            "sm2": "Silky_Ganache",
+            "sm3": "SilkyNGanache",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "MS"
+      },
+      "soju": {
+            "dob": 1991,
+            "eth": "korean",
+            "finish": [
+                  13
+            ],
+            "name": "Soju",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "shotwithsoju",
+            "sm2": "shotwithsoju",
+            "sm3": "shotwithsoju",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "KOR"
+      },
+      "theprincess": {
+            "dob": 1980,
+            "eth": "white",
+            "finish": [
+                  10
+            ],
+            "name": "The Princess",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "thedragprincess",
+            "sm2": "TheDragPrincess",
+            "sm3": "TheDragPrincess",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "IL",
+            "state_fmr": "SAF"
+      },
+      "thevixen": {
+            "dob": 1990,
+            "eth": "black",
+            "finish": [
+                  6
+            ],
+            "name": "The Vixen",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "thevixensworld",
+            "sm2": "TheVixensworld",
+            "sm3": "TheVxnsWorld",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "IL",
+            "state_fmr": "IL"
+      },
+      "trinitykbonet": {
+            "dob": 1991,
+            "eth": "black",
+            "finish": [
+                  6
+            ],
+            "name": "Trinity K Bonet",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "trinitykbonet",
+            "sm2": "trinitykbonet",
+            "sm3": "TrinityKBonet",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TX",
+            "state_fmr": "FL"
+      },
+      "vanessavanjiemateo": {
+            "dob": 1991,
+            "eth": "latinx",
+            "finish": [
+                  13
+            ],
+            "name": "Vanessa Vanjie Mateo",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "vanessavanjie",
+            "sm2": "VanessaVanjie",
+            "sm3": "Vanessa-Vanjie-Mateo-439488576394225",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "FL"
+      },
+      "vivacious": {
+            "dob": 1974,
+            "eth": "jamaican",
+            "finish": [
+                  11
+            ],
+            "name": "Vivacious",
+            "seasons": [
+                  "DR6"
+            ],
+            "sm1": "vivaciousnyc",
+            "sm2": "VivaciousNYC",
+            "sm3": "vivaciousnyc",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "NY"
+      },
+      "viviennepinay": {
+            "dob": 1985,
+            "eth": "filipino",
+            "finish": [
+                  10
+            ],
+            "name": "Vivienne Pinay",
+            "seasons": [
+                  "DR5"
+            ],
+            "sm1": "viviennepinay",
+            "sm2": "ViviennePinay",
+            "sm3": "ViviennePinay",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "NY"
+      },
+      "widowvondu": {
+            "dob": 1990,
+            "eth": "black",
+            "finish": [
+                  6
+            ],
+            "name": "Widow VonDu",
+            "seasons": [
+                  "DR12"
+            ],
+            "sm1": "thewidowvondu",
+            "sm2": "TheWidowVonDu",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "MO",
+            "state_fmr": "MO"
+      },
+      "willam": {
+            "dob": 1982,
+            "eth": "white",
+            "finish": [
+                  6
+            ],
+            "name": "Willam",
+            "seasons": [
+                  "DR4"
+            ],
+            "sm1": "willam",
+            "sm2": "willam",
+            "sm3": "willam",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "PA"
+      },
+      "yuhuahamasaki": {
+            "dob": 1990,
+            "eth": "chinese",
+            "finish": [
+                  11
+            ],
+            "name": "Yuhua Hamasaki",
+            "seasons": [
+                  "DR10"
+            ],
+            "sm1": "yuhuahamasaki",
+            "sm2": "YuhuaHamasaki",
+            "sm3": "yuhuahamasaki",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "CHN"
+      },
+      "yvieoddly": {
+            "dob": 1993,
+            "eth": "black",
+            "finish": [
+                  1
+            ],
+            "name": "Yvie Oddly",
+            "seasons": [
+                  "DR11"
+            ],
+            "sm1": "oddlyyvie",
+            "sm2": "OddlyYvie",
+            "sm3": "OddlyYvie",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CO",
+            "state_fmr": "CO"
+      }
 }
