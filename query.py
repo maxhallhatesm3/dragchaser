@@ -7,27 +7,31 @@ from datetime import datetime
 
 
 def main():
-    with open('db.json', 'r') as fil:
+    with open('db2.json', 'r') as fil:
         dat = json.load(fil)
 
-    for season in dat:
-        for queen in dat[season]:
-            instagram_fol, instagram_lik = get_insta(dat[season][queen]['sm1'])
-            ddump = {
-                'name': queen,
+    for queen in dat:
+        instagram_fol, instagram_lik = get_insta(dat[queen]['sm1'])
+
+        extract = dat[queen]
+
+        extract.update(
+            {
                 '_ts': datetime.now().strftime('%Y-%m-%dT%H:%M:%S'),
-                'sm1': instagram_fol,
-                'sm2': get_twitter(dat[season][queen]['sm2']),
-                'sm3': get_facebook(dat[season][queen]['sm3']),
+                'insta_f': instagram_fol,
+                'twitr_f': get_twitter(dat[queen]['sm2']),
+                'faceb_f': get_facebook(dat[queen]['sm3']),
                 'sm4': 0,
                 'sm5': 0,
-                'sm6': instagram_lik
+                'insta_l': instagram_lik
             }
-            with open('queries.json', 'a') as wfil:
-                json.dump(ddump, wfil, sort_keys=True)
-                wfil.write('\n')
-            sys.stdout.write('∙')
-            sys.stdout.flush()
+        )
+
+        with open('queries.json', 'a') as wfil:
+            json.dump(extract, wfil, sort_keys=True)
+            wfil.write('\n')
+        sys.stdout.write('∙')
+        sys.stdout.flush()
     sys.stdout.write('\n')
     sys.stdout.flush()
 
