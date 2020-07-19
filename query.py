@@ -27,9 +27,9 @@ def main():
 
         extract = dat[queen]
 
-        extract.update(
-            {
+        extract = {
                 '_ts': datetime.now().strftime('%Y-%m-%dT%H:%M:%S'),
+                'name': queen,
                 'insta_f': instagram_fol,
                 'twitr_f': twitter_fol,
                 'faceb_f': facebook_impr,
@@ -37,7 +37,7 @@ def main():
                 'twitr_t': twitter_twts,
                 'insta_l': instagram_lik
             }
-        )
+
         filnm = '%s.json' % datetime.now().strftime('%Y-%m-%d-%H')
         filout = os.path.join(os.path.sep, 'home', 'ubuntu', 'datadump', filnm)
         with open(filout, 'a') as wfil:
@@ -54,16 +54,16 @@ def get_insta(username):
 
     if not username:
         err_log('username null')
-        return 0, 0
+        return None, None
     if len(username) < 2:
         err_log('username len fail: %s' % username)
-        return 0, 0
+        return None, None
 
     try:
         r = requests.get('https://www.picuki.com/profile/%s' % username)
     except:
         err_log('request fail, https://www.picuki.com/profile/%s' % username)
-        return 0, 0
+        return None, None
     try:
         chop = r.text.split('<span data-followers="')[1]
     except:
@@ -71,7 +71,7 @@ def get_insta(username):
         err_log('chop fail: %s;  %s' % (username, filen))
         with open(filen, 'w') as errr:
             errr.write(r.text)
-        return 0, 0
+        return None, None
 
     dump = ''
 
@@ -104,7 +104,7 @@ def get_insta(username):
         lavg = sum(likes) / len(likes)
     else:
         err_log('zero div fail, ig likes, https://www.picuki.com/profile/%s' % username)
-        return 0, 0
+        return None, None
 
     return count, lavg
 
@@ -112,15 +112,15 @@ def get_insta(username):
 def get_facebook(username):
     if not username:
         err_log('username null: %s' % username)
-        return 0
+        return None
     if len(username) < 2:
         err_log('username len fail: %s' % username)
-        return 0
+        return None
     try:
         r = requests.get('https://www.facebook.com/%s' % username)
     except:
         err_log('request fail, https://www.facebook.com/%s' % username)
-        return 0
+        return None
 
     try:
         rough = r.text.split('people like this')[0].split('<div>')[-1]
@@ -130,7 +130,7 @@ def get_facebook(username):
         err_log('chop fail: %s;  %s' % (username, filen))
         with open(filen, 'w') as errr:
             errr.write(r.text)
-        return 0
+        return None
 
     try:
         rough = r.text.split('people follow this')[0].split('<div>')[-1]
@@ -140,7 +140,7 @@ def get_facebook(username):
         err_log('chop fail: %s;  %s' % (username, filen))
         with open(filen, 'w') as errr:
             errr.write(r.text)
-        return 0
+        return None
 
     return likes + follows
 
@@ -148,15 +148,15 @@ def get_facebook(username):
 def get_twitter(username):
     if not username:
         err_log('username null: %s' % username)
-        return 0, 0
+        return None, None
     if len(username) < 2:
         err_log('username len fail: %s' % username)
-        return 0, 0
+        return None, None
     try:
         r = requests.get('https://tweettunnel.com/%s' % username)
     except:
         err_log('request fail, https://tweettunnel.com/%s' % username)
-        return 0, 0
+        return None, None
 
     try:
         follows = r.text.split('Following</span> &nbsp;&nbsp;')[1].split('<span')[0]
@@ -168,7 +168,7 @@ def get_twitter(username):
         err_log('chop fail: %s;  %s' % (username, filen))
         with open(filen, 'w') as errr:
             errr.write(r.text)
-        return 0, 0
+        return None, None
 
     return follows, tweets
 
