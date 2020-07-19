@@ -38,10 +38,12 @@ def main():
                 'insta_l': instagram_lik
             }
         )
-
-        with open('queries.json', 'a') as wfil:
+        filnm = '%s.json' % datetime.now().strftime('%Y-%m-%d-%H')
+        filout = os.path.join('home', 'ubuntu', 'datadump', filnm)
+        with open(filout, 'a') as wfil:
             json.dump(extract, wfil, sort_keys=True)
             wfil.write('\n')
+
         sys.stdout.write('∙')
         sys.stdout.flush()
     sys.stdout.write('\n')
