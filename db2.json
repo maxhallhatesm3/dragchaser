@@ -592,6 +592,25 @@
             "state": "CA",
             "state_fmr": "TN"
       },
+      "frisbeejenkins": {
+            "dob": 1986,
+            "eth": "white",
+            "finish": [
+                  12
+            ],
+            "name": "Frisbee Jenkins",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "sashabelley",
+            "sm2": "SashaBelle3",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "IA",
+            "state_fmr": "IA"
+      },
       "giagunn": {
             "dob": 1990,
             "eth": "japanese",
@@ -629,6 +648,25 @@
             "sm6": "",
             "state": "CA",
             "state_fmr": "IL"
+      },
+      "gingerminj": {
+            "dob": 1984,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Ginger Minj",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "gingerminj",
+            "sm2": "TheGingerMinj",
+            "sm3": "thegingerminj",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "FL",
+            "state_fmr": "FL"
       },
       "heidincloset": {
             "dob": 1996,
@@ -803,6 +841,25 @@
             "state": "WI",
             "state_fmr": "WI"
       },
+      "jaidynndiorefierce": {
+            "dob": 1988,
+            "eth": "black",
+            "finish": [
+                  7
+            ],
+            "name": "Jaidynn Diore Fierce",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "jaidynnfierce",
+            "sm2": "jaidynnfierce",
+            "sm3": "jaidynndiorefierce",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TN",
+            "state_fmr": "TN"
+      },
       "jansport": {
             "dob": 1993,
             "eth": "white",
@@ -821,6 +878,25 @@
             "sm6": "",
             "state": "NY",
             "state_fmr": "NJ"
+      },
+      "jasminemasters": {
+            "dob": 1977,
+            "eth": "black",
+            "finish": [
+                  11
+            ],
+            "name": "Jasmine Masters",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "msjasminemasters",
+            "sm2": "JasminesMaster",
+            "sm3": "msjasminemasters",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
       },
       "jessicawild": {
             "dob": 1980,
@@ -973,6 +1049,25 @@
             "state": "TN",
             "state_fmr": "TN"
       },
+      "kandyho": {
+            "dob": 1987,
+            "eth": "latinx",
+            "finish": [
+                  9
+            ],
+            "name": "Kandy Ho",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "ho_kandy",
+            "sm2": "kandy_ho",
+            "sm3": "sweetkandyho",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "PR",
+            "state_fmr": "PR"
+      },
       "kellymantle": {
             "dob": 1976,
             "eth": "white",
@@ -991,6 +1086,25 @@
             "sm6": "",
             "state": "CA",
             "state_fmr": "OK"
+      },
+      "kennedydavenport": {
+            "dob": 1982,
+            "eth": "black",
+            "finish": [
+                  3
+            ],
+            "name": "Kennedy Davenport",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "kennedyddoftx",
+            "sm2": "kennedyddoftx",
+            "sm3": "kennedyddoftx",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "TX",
+            "state_fmr": "TX"
       },
       "kenyamichaels": {
             "dob": 1990,
@@ -1165,6 +1279,25 @@
             "state": "CA",
             "state_fmr": "GA"
       },
+      "max": {
+            "dob": 1992,
+            "eth": "white",
+            "finish": [
+                  8
+            ],
+            "name": "Max",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "maxcollective",
+            "sm2": "MAXcollective",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "WS",
+            "state_fmr": "WS"
+      },
       "mayhemmiller": {
             "dob": 1982,
             "eth": "black",
@@ -1262,6 +1395,25 @@
             "state": "PA",
             "state_fmr": "MA"
       },
+      "missfame": {
+            "dob": 1985,
+            "eth": "white",
+            "finish": [
+                  6
+            ],
+            "name": "Miss Fame",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "missfamenyc",
+            "sm2": "MissFameNYC",
+            "sm3": "missfameNYC",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "CA"
+      },
       "mizcracker": {
             "dob": 1984,
             "eth": "white",
@@ -1358,6 +1510,25 @@
             "sm6": "",
             "state": "CA",
             "state_fmr": "UK"
+      },
+      "mrskashadavis": {
+            "dob": 1971,
+            "eth": "white",
+            "finish": [
+                  10
+            ],
+            "name": "Mrs Kasha Davis",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "mrskashadavis",
+            "sm2": "KashaDavis",
+            "sm3": "mrskashadavis",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NY",
+            "state_fmr": "NY"
       },
       "mystiquesummers": {
             "dob": 1984,
@@ -1493,6 +1664,25 @@
             "sm6": "",
             "state": "CA",
             "state_fmr": "NY"
+      },
+      "pearlliaison": {
+            "dob": 1990,
+            "eth": "white",
+            "finish": [
+                  2
+            ],
+            "name": "Pearl Liaison",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "pearliaison",
+            "sm2": "pearliaison",
+            "sm3": "pearldragqueen",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "FL"
       },
       "pennytration": {
             "dob": 1972,
@@ -1952,6 +2142,25 @@
             "state": "DC",
             "state_fmr": "VA"
       },
+      "tempestdujour": {
+            "dob": 1967,
+            "eth": "white",
+            "finish": [
+                  13
+            ],
+            "name": "Tempest DuJour",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "tempestdujour",
+            "sm2": "TempestDuJour_",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "AZ",
+            "state_fmr": "NC"
+      },
       "theprincess": {
             "dob": 1980,
             "eth": "white",
@@ -2008,6 +2217,25 @@
             "sm6": "",
             "state": "TX",
             "state_fmr": "FL"
+      },
+      "trixiemattel": {
+            "dob": 1989,
+            "eth": "white",
+            "finish": [
+                  5
+            ],
+            "name": "Trixie Mattel",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "trixiemattel",
+            "sm2": "trixiemattel",
+            "sm3": "trixiemattelfanpage",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "WS"
       },
       "tyrasanchez": {
             "dob": 1988,
@@ -2084,6 +2312,25 @@
             "sm6": "",
             "state": "CA",
             "state_fmr": "NC"
+      },
+      "violetchachki": {
+            "dob": 1992,
+            "eth": "white",
+            "finish": [
+                  1
+            ],
+            "name": "Violet Chachki",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "violetchachki",
+            "sm2": "VioletChachki",
+            "sm3": "VioletChachkiOfficial",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "GA"
       },
       "vivacious": {
             "dob": 1974,
@@ -2179,6 +2426,25 @@
             "sm6": "",
             "state": "NV",
             "state_fmr": "PR"
+      },
+      "yekaterinapetrovnazamolodchikova": {
+            "dob": 1982,
+            "eth": "white",
+            "finish": [
+                  4
+            ],
+            "name": "Yekaterina Petrovna Zamolodchikova",
+            "seasons": [
+                  "DR7"
+            ],
+            "sm1": "katya_zamo",
+            "sm2": "katya_zamo",
+            "sm3": "welovekatya",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "MA"
       },
       "yuhuahamasaki": {
             "dob": 1990,
