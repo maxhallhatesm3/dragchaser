@@ -98,11 +98,13 @@
             "dob": 1979,
             "eth": "latinx",
             "finish": [
-                  4
+                  4,
+                  3
             ],
             "name": "Alexis Mateo",
             "seasons": [
-                  "AS5"
+                  "AS5",
+                  "DR3"
             ],
             "sm1": "miss_alexis_mateo",
             "sm2": "AlexisMateo79",
@@ -343,6 +345,25 @@
             "state": "CA",
             "state_fmr": "CAN"
       },
+      "carmencarrera": {
+            "dob": 1985,
+            "eth": "latinx",
+            "finish": [
+                  5
+            ],
+            "name": "Carmen Carrera",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "carmen_carrera",
+            "sm2": "Carmen_Carrera",
+            "sm3": "carmencarrerafans",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NJ",
+            "state_fmr": "NJ"
+      },
       "chadmichaels": {
             "dob": 1971,
             "eth": "white",
@@ -456,6 +477,25 @@
             "sm6": "",
             "state": "NY",
             "state_fmr": "NY"
+      },
+      "deltawork": {
+            "dob": 1976,
+            "eth": "latinx",
+            "finish": [
+                  7
+            ],
+            "name": "Delta Work",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "deltawork",
+            "sm2": "",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
       },
       "derrickbarry": {
             "dob": 1983,
@@ -651,11 +691,13 @@
             "dob": 1986,
             "eth": "white",
             "finish": [
-                  5
+                  5,
+                  10
             ],
             "name": "India Ferrah",
             "seasons": [
-                  "AS5"
+                  "AS5",
+                  "DR3"
             ],
             "sm1": "indiaferrah",
             "sm2": "Indiaferrah",
@@ -1083,15 +1125,36 @@
             "state": "WA",
             "state_fmr": "WA"
       },
+      "manilaluzon": {
+            "dob": 1981,
+            "eth": "filipino",
+            "finish": [
+                  2
+            ],
+            "name": "Manila Luzon",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "manilaluzon",
+            "sm2": "manilaluzon",
+            "sm3": "manilaluzonfanpage",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "MN"
+      },
       "mariahparisbalenciaga": {
             "dob": 1982,
             "eth": "latinx",
             "finish": [
-                  7
+                  7,
+                  9
             ],
             "name": "Mariah Paris Balenciaga",
             "seasons": [
-                  "AS5"
+                  "AS5",
+                  "DR3"
             ],
             "sm1": "mug4dayz",
             "sm2": "MUG4DAYZ",
@@ -1179,6 +1242,25 @@
             "sm6": "",
             "state": "NY",
             "state_fmr": "NY"
+      },
+      "mimiimfurst": {
+            "dob": 1983,
+            "eth": "white",
+            "finish": [
+                  11
+            ],
+            "name": "Mimi Imfurst",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "mimiimfurst",
+            "sm2": "MimiImfurst",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "PA",
+            "state_fmr": "MA"
       },
       "mizcracker": {
             "dob": 1984,
@@ -1450,6 +1532,25 @@
             "state": "NY",
             "state_fmr": "IL"
       },
+      "phoenix": {
+            "dob": 1979,
+            "eth": "white",
+            "finish": [
+                  12
+            ],
+            "name": "Phoenix",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "phoenix_atl",
+            "sm2": "Phoenix_atl",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "GA",
+            "state_fmr": "GA"
+      },
       "plastiquetiara": {
             "dob": 1997,
             "eth": "vietnamese",
@@ -1468,6 +1569,25 @@
             "sm6": "",
             "state": "TX",
             "state_fmr": "VNM"
+      },
+      "rajagemini": {
+            "dob": 1974,
+            "eth": "indonesian",
+            "finish": [
+                  1
+            ],
+            "name": "Raja Gemini",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "sutanamrull",
+            "sm2": "sutangemini",
+            "sm3": "RajaOfficial",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
       },
       "rajahohara": {
             "dob": 1986,
@@ -1625,11 +1745,13 @@
             "dob": 1981,
             "eth": "black",
             "finish": [
-                  12
+                  12,
+                  6
             ],
             "name": "Shangela Laquifa Wadley",
             "seasons": [
-                  "DR2"
+                  "DR2",
+                  "DR3"
             ],
             "sm1": "itsshangela",
             "sm2": "itsSHANGELA",
@@ -1773,6 +1895,25 @@
             "state": "CA",
             "state_fmr": "GA"
       },
+      "stacylaynematthews": {
+            "dob": 1984,
+            "eth": "nativeamerican",
+            "finish": [
+                  8
+            ],
+            "name": "Stacy Layne Matthews",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "stacylmatthews",
+            "sm2": "StacyLMatthews",
+            "sm3": "stacylaynematthews",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NC",
+            "state_fmr": "NC"
+      },
       "tammiebrown": {
             "dob": 1980,
             "eth": "white",
@@ -1906,6 +2047,25 @@
             "state": "CA",
             "state_fmr": "FL"
       },
+      "venusdlite": {
+            "dob": 1984,
+            "eth": "white",
+            "finish": [
+                  13
+            ],
+            "name": "Venus D Lite",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "venusdlitemadonna",
+            "sm2": "venusdlites",
+            "sm3": "",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "CA",
+            "state_fmr": "CA"
+      },
       "victoriaporkchopparker": {
             "dob": 1969,
             "eth": "white",
@@ -2000,6 +2160,25 @@
             "sm6": "",
             "state": "CA",
             "state_fmr": "PA"
+      },
+      "yarasofia": {
+            "dob": 1984,
+            "eth": "latinx",
+            "finish": [
+                  4
+            ],
+            "name": "Yara Sofia",
+            "seasons": [
+                  "DR3"
+            ],
+            "sm1": "yarasofiapr",
+            "sm2": "yarasofiapr",
+            "sm3": "yarasofiapr",
+            "sm4": "",
+            "sm5": "",
+            "sm6": "",
+            "state": "NV",
+            "state_fmr": "PR"
       },
       "yuhuahamasaki": {
             "dob": 1990,

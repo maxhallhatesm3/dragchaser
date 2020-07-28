@@ -46,6 +46,10 @@ class DragRace:
             "state_fmr": born
         }
 
+        if name.lower().replace(' ', '') in self.dat:
+            print('exists.......................')
+            return
+
         self.dat[name.lower().replace(' ', '')] = newdat
         self.save()
 
