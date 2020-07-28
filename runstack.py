@@ -22,6 +22,10 @@ class DragRace:
         with open('db2.json', 'w') as fil:
             json.dump(self.dat, fil, sort_keys=True, indent=6)
 
+    def load(self):
+        with open('db2.json', 'r') as fil:
+            self.dat = json.load(fil)
+
     def add_queen(self, name, szn, finish, dob, eth, born, state):
         if dob < 1900:
             dob = datetime.datetime.now().year - dob
